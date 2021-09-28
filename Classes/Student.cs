@@ -74,6 +74,18 @@ namespace Classes
 
         }
 
+        //public int this[int i, int j]
+        //{
+        //    get
+        //    {
+        //        return _grades[i,j];
+        //    }
+        //    set
+        //    {   
+        //        _grades[i, j] = value;
+        //    }
+        //}
+
         public void gradesPrint()
         {
             for (int i = 0; i < 3; i++)

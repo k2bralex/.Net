@@ -5,3 +5,10 @@ C:\Users\Simass\source\repos\Classes\obj\Debug\Classes.csproj.AssemblyReference.
 C:\Users\Simass\source\repos\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
 C:\Users\Simass\source\repos\Classes\obj\Debug\Classes.exe
 C:\Users\Simass\source\repos\Classes\obj\Debug\Classes.pdb
+C:\Users\Simass\Source\Repos\C_Sharp\Classes\bin\Debug\Classes.exe.config
+C:\Users\Simass\Source\Repos\C_Sharp\Classes\bin\Debug\Classes.exe
+C:\Users\Simass\Source\Repos\C_Sharp\Classes\bin\Debug\Classes.pdb
+C:\Users\Simass\Source\Repos\C_Sharp\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\Simass\Source\Repos\C_Sharp\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Simass\Source\Repos\C_Sharp\Classes\obj\Debug\Classes.exe
+C:\Users\Simass\Source\Repos\C_Sharp\Classes\obj\Debug\Classes.pdb
