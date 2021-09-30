@@ -1,0 +1,12 @@
+C:\Users\Simass\source\repos\MyClassLib\bin\Debug\MyClassLib.dll
+C:\Users\Simass\source\repos\MyClassLib\bin\Debug\MyClassLib.pdb
+C:\Users\Simass\source\repos\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Simass\source\repos\MyClassLib\obj\Debug\MyClassLib.dll
+C:\Users\Simass\source\repos\MyClassLib\obj\Debug\MyClassLib.pdb
+C:\Users\Simass\source\repos\MyClassLib\obj\Debug\MyClassLib.csproj.AssemblyReference.cache
+C:\Users\Simass\Source\Repos\C_Sharp\MyClassLib\bin\Debug\MyClassLib.dll
+C:\Users\Simass\Source\Repos\C_Sharp\MyClassLib\bin\Debug\MyClassLib.pdb
+C:\Users\Simass\Source\Repos\C_Sharp\MyClassLib\obj\Debug\MyClassLib.csproj.AssemblyReference.cache
+C:\Users\Simass\Source\Repos\C_Sharp\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Simass\Source\Repos\C_Sharp\MyClassLib\obj\Debug\MyClassLib.dll
+C:\Users\Simass\Source\Repos\C_Sharp\MyClassLib\obj\Debug\MyClassLib.pdb
