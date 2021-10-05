@@ -1,0 +1,7 @@
+C:\Users\37207\source\repos\AutoCollection\AutoCollection\bin\Debug\AutoCollection.exe.config
+C:\Users\37207\source\repos\AutoCollection\AutoCollection\bin\Debug\AutoCollection.exe
+C:\Users\37207\source\repos\AutoCollection\AutoCollection\bin\Debug\AutoCollection.pdb
+C:\Users\37207\source\repos\AutoCollection\AutoCollection\obj\Debug\AutoCollection.csprojAssemblyReference.cache
+C:\Users\37207\source\repos\AutoCollection\AutoCollection\obj\Debug\AutoCollection.csproj.CoreCompileInputs.cache
+C:\Users\37207\source\repos\AutoCollection\AutoCollection\obj\Debug\AutoCollection.exe
+C:\Users\37207\source\repos\AutoCollection\AutoCollection\obj\Debug\AutoCollection.pdb

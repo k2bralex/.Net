@@ -1,0 +1,10 @@
+C:\Users\37207\Source\Repos\C_Sharp\Day7_Tanks\bin\Release\Day7_Tanks.exe.config
+C:\Users\37207\Source\Repos\C_Sharp\Day7_Tanks\bin\Release\Day7_Tanks.exe
+C:\Users\37207\Source\Repos\C_Sharp\Day7_Tanks\bin\Release\Day7_Tanks.pdb
+C:\Users\37207\Source\Repos\C_Sharp\Day7_Tanks\bin\Release\MyClassLib.dll
+C:\Users\37207\Source\Repos\C_Sharp\Day7_Tanks\bin\Release\MyClassLib.pdb
+C:\Users\37207\Source\Repos\C_Sharp\Day7_Tanks\obj\Release\Day7_Tanks.csprojAssemblyReference.cache
+C:\Users\37207\Source\Repos\C_Sharp\Day7_Tanks\obj\Release\Day7_Tanks.csproj.CoreCompileInputs.cache
+C:\Users\37207\Source\Repos\C_Sharp\Day7_Tanks\obj\Release\Day7_Tanks.csproj.CopyComplete
+C:\Users\37207\Source\Repos\C_Sharp\Day7_Tanks\obj\Release\Day7_Tanks.exe
+C:\Users\37207\Source\Repos\C_Sharp\Day7_Tanks\obj\Release\Day7_Tanks.pdb
