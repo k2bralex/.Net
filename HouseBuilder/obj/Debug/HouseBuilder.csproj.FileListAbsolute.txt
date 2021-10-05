@@ -1,0 +1,7 @@
+C:\Users\Simass\source\repos\HouseBuilder\bin\Debug\HouseBuilder.exe.config
+C:\Users\Simass\source\repos\HouseBuilder\bin\Debug\HouseBuilder.exe
+C:\Users\Simass\source\repos\HouseBuilder\bin\Debug\HouseBuilder.pdb
+C:\Users\Simass\source\repos\HouseBuilder\obj\Debug\HouseBuilder.csproj.AssemblyReference.cache
+C:\Users\Simass\source\repos\HouseBuilder\obj\Debug\HouseBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Simass\source\repos\HouseBuilder\obj\Debug\HouseBuilder.exe
+C:\Users\Simass\source\repos\HouseBuilder\obj\Debug\HouseBuilder.pdb

@@ -157,11 +157,11 @@ namespace Day7_Tanks
     {
         static void Main(string[] args)
         {
-            TankFight fight = new TankFight();
-            fight.Run();
+            //TankFight fight = new TankFight();
+            //fight.Run();
 
-            //Tank tank = new Tank();
-            //tank.Run();
+            Tank tank = new Tank();
+            tank.Run();
 
             Console.WriteLine("Press any key");
             Console.ReadKey();

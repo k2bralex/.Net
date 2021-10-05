@@ -1,0 +1,7 @@
+C:\Users\Simass\source\repos\Overloads\obj\Debug\Overloads.csproj.AssemblyReference.cache
+C:\Users\Simass\source\repos\Overloads\obj\Debug\Overloads.csproj.CoreCompileInputs.cache
+C:\Users\Simass\source\repos\Overloads\bin\Debug\Overloads.exe.config
+C:\Users\Simass\source\repos\Overloads\bin\Debug\Overloads.exe
+C:\Users\Simass\source\repos\Overloads\bin\Debug\Overloads.pdb
+C:\Users\Simass\source\repos\Overloads\obj\Debug\Overloads.exe
+C:\Users\Simass\source\repos\Overloads\obj\Debug\Overloads.pdb

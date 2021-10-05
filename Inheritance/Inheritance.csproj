@@ -43,17 +43,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Wholesale\Building.cs" />
+    <Compile Include="Wholesale\ConsumerProduct.cs" />
     <Compile Include="Employee\Employee.cs" />
     <Compile Include="Employee\Manager.cs" />
+    <Compile Include="Wholesale\Food.cs" />
+    <Compile Include="Wholesale\HouseholdChemicals.cs" />
+    <Compile Include="Wholesale\OfficeEquimpent.cs" />
+    <Compile Include="Wholesale\Product.cs" />
+    <Compile Include="Wholesale\ProductionProduct.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Employee\SalsePerson.cs" />
-    <Compile Include="Shapes\Circe1.cs" />
-    <Compile Include="Shapes\Hexagon.cs" />
+    <Compile Include="Shapes\Circe.cs" />
+    <Compile Include="Shapes\Composite.cs" />
+    <Compile Include="Shapes\Constants.cs" />
+    <Compile Include="Shapes\Side.cs" />
+    <Compile Include="Shapes\Triangle.cs" />
     <Compile Include="Shapes\Shape.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Wholesale\WholeSaleDiag.cd" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

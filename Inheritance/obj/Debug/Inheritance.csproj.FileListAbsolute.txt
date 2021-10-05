@@ -5,3 +5,10 @@ C:\Users\Simass\source\repos\Inheritance\obj\Debug\Inheritance.csproj.AssemblyRe
 C:\Users\Simass\source\repos\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
 C:\Users\Simass\source\repos\Inheritance\obj\Debug\Inheritance.exe
 C:\Users\Simass\source\repos\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\Simass\Source\Repos\C_Sharp\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Simass\Source\Repos\C_Sharp\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Simass\Source\Repos\C_Sharp\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Simass\Source\Repos\C_Sharp\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\Simass\Source\Repos\C_Sharp\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Simass\Source\Repos\C_Sharp\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Simass\Source\Repos\C_Sharp\Inheritance\obj\Debug\Inheritance.pdb

@@ -8,14 +8,24 @@ namespace Inheritance.Shapes
 {
     abstract class Shape
     {
-        public string PetName { get; set; }
+        string _name;
+        public string Name
+        {
+            get => _name;
+            set => _name = value;
+        }
 
         public Shape(string name = "NoName")
         {
-            PetName = name;
+            _name = name;
         }
 
-        public abstract void Draw();
-
+        public abstract double ShapeArea();
+        public abstract double ShapePerimeter();
+        public override string ToString()
+        {
+            return $"\nShape: {Name}\n------------------\n" +
+                   $"Area: {ShapeArea()}\nPerimeter: { ShapePerimeter()}";
+        }
     }
 }

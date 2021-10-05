@@ -6,15 +6,20 @@ using System.Threading.Tasks;
 
 namespace Inheritance.Shapes
 {
-    class Circe1 : Shape
+    class Side
     {
-        public Circe1(string name):base(name)
+        double _lenght;
+
+        public double Lenght
         {
-            
+            get => _lenght;
+            set => _lenght = value;
         }
-        public override void Draw()
+
+        public Side(double lenght)
         {
-            Console.WriteLine($"Drawing {PetName} the Circle");
+            _lenght = lenght;
         }
+
     }
 }
