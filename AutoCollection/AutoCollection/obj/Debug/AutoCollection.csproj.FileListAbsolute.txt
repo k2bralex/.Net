@@ -5,3 +5,10 @@ C:\Users\37207\source\repos\AutoCollection\AutoCollection\obj\Debug\AutoCollecti
 C:\Users\37207\source\repos\AutoCollection\AutoCollection\obj\Debug\AutoCollection.csproj.CoreCompileInputs.cache
 C:\Users\37207\source\repos\AutoCollection\AutoCollection\obj\Debug\AutoCollection.exe
 C:\Users\37207\source\repos\AutoCollection\AutoCollection\obj\Debug\AutoCollection.pdb
+C:\Users\Simass\Source\Repos\C_Sharp\AutoCollection\AutoCollection\bin\Debug\AutoCollection.exe.config
+C:\Users\Simass\Source\Repos\C_Sharp\AutoCollection\AutoCollection\bin\Debug\AutoCollection.exe
+C:\Users\Simass\Source\Repos\C_Sharp\AutoCollection\AutoCollection\bin\Debug\AutoCollection.pdb
+C:\Users\Simass\Source\Repos\C_Sharp\AutoCollection\AutoCollection\obj\Debug\AutoCollection.csproj.AssemblyReference.cache
+C:\Users\Simass\Source\Repos\C_Sharp\AutoCollection\AutoCollection\obj\Debug\AutoCollection.csproj.CoreCompileInputs.cache
+C:\Users\Simass\Source\Repos\C_Sharp\AutoCollection\AutoCollection\obj\Debug\AutoCollection.exe
+C:\Users\Simass\Source\Repos\C_Sharp\AutoCollection\AutoCollection\obj\Debug\AutoCollection.pdb
