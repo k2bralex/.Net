@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Delegate"
+    "\\AutoCollection",
+    "\\AutoCollection\\AutoCollection"
   ],
-  "SelectedNode": "\\Delegate\\MyDelegate.sln",
   "PreviewInSolutionExplorer": false
 }
