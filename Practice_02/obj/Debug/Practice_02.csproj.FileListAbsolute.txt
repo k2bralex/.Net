@@ -1,0 +1,7 @@
+C:\Users\Simass\source\repos\Practice_02\bin\Debug\Practice_02.exe.config
+C:\Users\Simass\source\repos\Practice_02\bin\Debug\Practice_02.exe
+C:\Users\Simass\source\repos\Practice_02\bin\Debug\Practice_02.pdb
+C:\Users\Simass\source\repos\Practice_02\obj\Debug\Practice_02.csproj.AssemblyReference.cache
+C:\Users\Simass\source\repos\Practice_02\obj\Debug\Practice_02.csproj.CoreCompileInputs.cache
+C:\Users\Simass\source\repos\Practice_02\obj\Debug\Practice_02.exe
+C:\Users\Simass\source\repos\Practice_02\obj\Debug\Practice_02.pdb

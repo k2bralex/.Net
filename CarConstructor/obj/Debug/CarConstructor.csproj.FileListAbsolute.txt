@@ -1,0 +1,7 @@
+C:\Users\Simass\source\repos\CarConstructor\bin\Debug\CarConstructor.exe.config
+C:\Users\Simass\source\repos\CarConstructor\bin\Debug\CarConstructor.exe
+C:\Users\Simass\source\repos\CarConstructor\bin\Debug\CarConstructor.pdb
+C:\Users\Simass\source\repos\CarConstructor\obj\Debug\CarConstructor.csproj.AssemblyReference.cache
+C:\Users\Simass\source\repos\CarConstructor\obj\Debug\CarConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Simass\source\repos\CarConstructor\obj\Debug\CarConstructor.exe
+C:\Users\Simass\source\repos\CarConstructor\obj\Debug\CarConstructor.pdb
