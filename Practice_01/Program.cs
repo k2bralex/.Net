@@ -1,21 +1,18 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
-using static System.Console;
 
 namespace Practice_01
 {
     class Program
     {
-        delegate double Operation();
-
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             //double[] A = new double[2];
             //double[,] B = new double[3, 4];
 
@@ -209,14 +206,39 @@ namespace Practice_01
             //            maxValue = arr[i, j];
 
             //        }
+=======
+            double[] A = new double[2];
+            double[,] B = new double[3, 4];
 
-            //        if (minValue > arr[i, j])
-            //        {
-            //            minValue = arr[i, j];
-            //        }
-            //    }
-            //}
+            for (int i = 0; i < A.Length; i++)
+            {
+                double item;
+                double.TryParse(Console.ReadLine(), out item);
+                A[i] = item;
+            }
 
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 4; j++)
+                {
+                    Random rnd = new Random();
+                    B[i,j] = (double)rnd.Next(1000)/100;
+                }
+            }
+
+            foreach (var item in A)
+            {
+                Console.WriteLine(item.ToString());
+            }
+
+            foreach (var item in B)
+            {
+                Console.WriteLine(item.ToString());
+            }
+>>>>>>> main
+
+
+<<<<<<< HEAD
             //foreach (var i in arr)
             //{
             //    if (maxValue < i)
@@ -229,6 +251,8 @@ namespace Practice_01
             //    }
             //}
             //WriteLine(minValue+"\t"+maxValue);
+=======
+>>>>>>> main
 
 
             Console.WriteLine("Press any key");
