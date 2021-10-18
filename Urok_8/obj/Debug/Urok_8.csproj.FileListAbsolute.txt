@@ -1,0 +1,7 @@
+C:\Users\Simass\source\repos\Urok_8\bin\Debug\Urok_8.exe.config
+C:\Users\Simass\source\repos\Urok_8\bin\Debug\Urok_8.exe
+C:\Users\Simass\source\repos\Urok_8\bin\Debug\Urok_8.pdb
+C:\Users\Simass\source\repos\Urok_8\obj\Debug\Urok_8.csproj.AssemblyReference.cache
+C:\Users\Simass\source\repos\Urok_8\obj\Debug\Urok_8.csproj.CoreCompileInputs.cache
+C:\Users\Simass\source\repos\Urok_8\obj\Debug\Urok_8.exe
+C:\Users\Simass\source\repos\Urok_8\obj\Debug\Urok_8.pdb

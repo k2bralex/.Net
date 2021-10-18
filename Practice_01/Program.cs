@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 using System.Linq;
@@ -174,9 +175,9 @@ namespace Practice_01
             //    count++;
             //}
             //WriteLine(count);
+                                                                   
 
-            //Random r = new Random();
-            //int[,] arr = new int[5, 5];
+
             //for (int i = 0; i < arr.GetLength(0); i++)
             //{
             //    for (int j = 0; j < arr.GetLength(1); j++)
@@ -184,6 +185,7 @@ namespace Practice_01
             //        arr[i, j] = r.Next(-100, 100);
             //    }
             //}
+
 
             //for (int i = 0; i < arr.GetLength(0); i++)
             //{
@@ -205,7 +207,7 @@ namespace Practice_01
             //        if (maxValue < arr[i, j])
             //        {
             //            maxValue = arr[i, j];
-                        
+
             //        }
 
             //        if (minValue > arr[i, j])
@@ -226,7 +228,7 @@ namespace Practice_01
             //        minValue = i;
             //    }
             //}
-            WriteLine(minValue+"\t"+maxValue);
+            //WriteLine(minValue+"\t"+maxValue);
 
 
             Console.WriteLine("Press any key");
